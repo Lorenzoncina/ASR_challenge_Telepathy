@@ -5,7 +5,7 @@ I wrote two different notebooks for the two tasks: Task_1_Telephaty.ipynb and Ta
 I used Colab as Dev enviroment, and two different virtual env for each notebook to be able to present them easily the day of the interview.
 We will go trough the code togheter interctivly, but if you want to try the notebooks before, these are the steps:
 
-To use the notebooks"
+To use the notebooks
 ```python
 #clone the repository
 git clone https://github.com/Lorenzoncina/ASR_challenge_Telepathy.git
