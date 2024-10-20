@@ -5,6 +5,9 @@ I wrote two different notebooks for the two tasks: Task_1_Telephaty.ipynb and Ta
 I used Colab as Dev enviroment, and two different virtual env for each notebook to be able to present them easily the day of the interview.
 We will go trough the code togheter interctivly, but if you want to try the notebooks before, these are the steps:
 
+>[!WARNING]
+>requirements files have been freezed from the google colab env, they may contain Colab specific packages that must be removed before attempting the installation on a new venv
+
 To use the notebooks
 ```python
 #clone the repository
