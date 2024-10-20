@@ -18,7 +18,7 @@ python3 -m venv venv_challenge_task_1
 source venv_challenge/bin/activate
 
 #install all necessary dependencies
-pip install requirements_task_1.txt
+pip install -r requirements_task_1.txt
 
 #I didn't version data into a remote storage for this challenge with DVC due to some Google Drive issues. 
 #In this case, manually copy then data folder tl_speech_challenge inside the repository folder
