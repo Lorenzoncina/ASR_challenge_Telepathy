@@ -32,4 +32,10 @@ cp -r ..some_location/tl_speech_challenge .
 
 ```
 
+First notebook Task_1_Telephaty.ipynb address the first task about Data Augmentation. Here, after a first analysis of input clean speech data, I proceded with augmenting them with three different augmentation chains using the open source library Audiomentations. Finally I comparaded waveforms and stft of clean and augmented data.
+
+Second notebook Task_2_Telephaty.ipynb address the second task about evaluating a pre-trained model on clean and augmented data. First, I load Whisper tiny.en , run inference on both clean and augmented data (all three augmentation chains) and finally I show differences in terms of WER.
+
+Everything will be presented in detail on Monday, as well as an interactive run of the notebooks.
+
 
