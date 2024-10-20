@@ -6,7 +6,7 @@ I used Colab as Dev enviroment, and two different virtual env for each notebook 
 We will go trough the code togheter interctivly, but if you want to try the notebooks before, these are the steps:
 
 >[!WARNING]
->requirements files have been freezed from the google colab env, they may contain Colab specific packages that must be removed before attempting the installation on a new venv
+>requirements files have been freezed from the google colab env, they may contain Colab specific packages that must be removed before attempting the installation on a new venv. If this is the case, the user may want to pip install each module as shown in the first cell of each notebook.
 
 To use the notebooks
 ```python
