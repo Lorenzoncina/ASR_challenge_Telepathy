@@ -1,7 +1,7 @@
 # ASR_challenge_Telepathy
 ASR Challenge, Interview 21st October - Lorenzo Concina
 
-I wrote two different notebooks for the two tasks: Task_1_Telephaty.ipynb and Task_2_Telephaty.ipynb
+I wrote two different notebooks for the two tasks: Task_1_Telepathy.ipynb and Task_2_Telepathy.ipynb
 I used Colab as Dev enviroment, and two different virtual env for each notebook to be able to present them easily the day of the interview.
 We will go trough the code togheter interctivly, but if you want to try the notebooks before, these are the steps:
 
